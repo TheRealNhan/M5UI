@@ -18,8 +18,9 @@ Hidden features:
 - On the `fase` (when you click the `STA/STP` button, it will increase the `fase`)
     * Click button A to enter the **AppleJuice** firmware (on `fase` equals 1 and `poz` equals 5)
     * Click button A to enter TV-B-Gone mode (on `fase` equals 0 and `poz` equals 1)
-
 # Source
 - Ideas from: [@VolosProjects](https://github.com/VolosR/evilClock/tree/main)
 - TV-B-Gone (from [https://github.com/shirriff/Arduino-TV-B-Gone](https://github.com/shirriff/Arduino-TV-B-Gone))
 - AppleJuice (from [https://github.com/ECTO-1A/AppleJuice](https://github.com/ECTO-1A/AppleJuice))
+# License
+- This repository is under MIT License. 
